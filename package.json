@@ -1,9 +1,9 @@
 {
-  "name": "curl2hyper",
+  "name": "coolTools",
   "version": "1.0.0",
-  "description": "Curl Conversion to Hyper (CFML)",
-  "productName": "curl2hyper",
-  "cordovaId": "io.blusol.curl2hyper.app",
+  "description": "Curl Conversion to Hyper (CFML), SQL Converstion to QB (CFML)",
+  "productName": "coolTools",
+  "cordovaId": "io.blusol.coolTools.app",
   "author": "Andrew Davis <blusol850@gmail.com>",
   "private": true,
   "scripts": {
